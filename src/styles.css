@@ -96,3 +96,7 @@ p {
   border-radius: 2px;
   padding: 20px 15px;
 }
+@media(max-width: 576px){
+.img-fluid{display: none;}
+
+}
